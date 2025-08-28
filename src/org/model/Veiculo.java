@@ -14,11 +14,9 @@ public class Veiculo {
 
     public Veiculo (){
         this.id = 0;
-        this.Status = "";
         this.chassi = "";
         this.renavam = "";
         this.cor = "";
-        this.modelo = "";
     }
 
 
