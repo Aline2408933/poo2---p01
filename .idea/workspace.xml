@@ -5,21 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f148fb5c-e3b5-4b45-a2fd-c1d576a0d601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poo2 - p01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/ContratoLocacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Locacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Manutencao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Marca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Modelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/model/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/org/model/Manutencao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/model/Marca.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/model/Modelo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/model/Veiculo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/org/principal/Principal.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="31ZTXKH4le8mZ45qh0qbE9M7nvy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,12 +51,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,5 +79,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/poo2___p01$Principal.ic" NAME="Principal Coverage Results" MODIFIED="1755736314386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.principal.*</FILTER>
+    </SUITE>
   </component>
 </project>
